@@ -20,15 +20,29 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="b62883c1-4fe3-4a69-8076-df3e0dbd215c" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/request_results.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/password_generator.py" beforeDir="false" afterPath="$PROJECT_DIR$/password_generator.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/users.json" beforeDir="false" afterPath="$PROJECT_DIR$/users.json" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
   <component name="Git.Settings">
+    <option name="PREVIOUS_COMMIT_AUTHORS">
+      <list>
+        <option value="cheshi-mantu &lt;cheshi.mantu@gmail.com&gt;" />
+      </list>
+    </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="GithubPullRequestsUISettings">
@@ -51,9 +65,30 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
-    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+    <property name="settings.editor.selected.configurable" value="org.jetbrains.plugins.github.ui.GithubSettingsConfigurable" />
   </component>
-  <component name="RunManager">
+  <component name="RunManager" selected="Python.20200425-hw_gen-userdata">
+    <configuration name="20200425-hw_gen-userdata" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="sklbox-april2020" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/venv" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/venv/20200425-hw_gen-userdata.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <configuration name="hw_requests_20200424" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="sklbox-april2020" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -75,8 +110,53 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="password_generator" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="sklbox-april2020" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/password_generator.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="server" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="sklbox-april2020" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/server.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.20200425-hw_gen-userdata" />
+        <item itemvalue="Python.password_generator" />
+        <item itemvalue="Python.server" />
         <item itemvalue="Python.hw_requests_20200424" />
       </list>
     </recent_temporary>
@@ -92,6 +172,35 @@
       <option name="presentableId" value="Default" />
       <updated>1587708400397</updated>
     </task>
+    <task id="LOCAL-00001" summary="adding flask server">
+      <created>1587796753148</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1587796753148</updated>
+    </task>
+    <task id="LOCAL-00002" summary="adding flask server">
+      <created>1587796933176</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1587796933176</updated>
+    </task>
+    <task id="LOCAL-00003" summary="adding flask server">
+      <created>1587797177820</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1587797177820</updated>
+    </task>
+    <task id="LOCAL-00004" summary="pass gen">
+      <created>1587797398339</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1587797398339</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -114,27 +223,63 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+    <MESSAGE value="adding flask server" />
+    <MESSAGE value="pass gen" />
+    <option name="LAST_COMMIT_MESSAGE" value="pass gen" />
   </component>
   <component name="WindowStateProjectService">
-    <state width="1691" height="249" key="GridCell.Tab.0.bottom" timestamp="1587718032868">
-      <screen x="0" y="-1050" width="1920" height="1050" />
+    <state x="382" y="85" key="CommitChangelistDialog2" timestamp="1587797397490">
+      <screen x="0" y="31" width="1504" height="972" />
+    </state>
+    <state x="382" y="85" key="CommitChangelistDialog2/0.31.1504.972@0.31.1504.972" timestamp="1587797397490" />
+    <state width="1483" height="260" key="GridCell.Tab.0.bottom" timestamp="1587820632757">
+      <screen x="0" y="31" width="1504" height="972" />
     </state>
     <state width="1691" height="249" key="GridCell.Tab.0.bottom/0.30.1920.1050/0.-1050.1920.1050@0.-1050.1920.1050" timestamp="1587718032868" />
-    <state width="1691" height="249" key="GridCell.Tab.0.center" timestamp="1587718032868">
-      <screen x="0" y="-1050" width="1920" height="1050" />
+    <state width="1483" height="260" key="GridCell.Tab.0.bottom/0.31.1504.972@0.31.1504.972" timestamp="1587820632757" />
+    <state width="1483" height="260" key="GridCell.Tab.0.center" timestamp="1587820632757">
+      <screen x="0" y="31" width="1504" height="972" />
     </state>
     <state width="1691" height="249" key="GridCell.Tab.0.center/0.30.1920.1050/0.-1050.1920.1050@0.-1050.1920.1050" timestamp="1587718032868" />
-    <state width="1691" height="249" key="GridCell.Tab.0.left" timestamp="1587718032868">
-      <screen x="0" y="-1050" width="1920" height="1050" />
+    <state width="1483" height="260" key="GridCell.Tab.0.center/0.31.1504.972@0.31.1504.972" timestamp="1587820632757" />
+    <state width="1483" height="260" key="GridCell.Tab.0.left" timestamp="1587820632757">
+      <screen x="0" y="31" width="1504" height="972" />
     </state>
     <state width="1691" height="249" key="GridCell.Tab.0.left/0.30.1920.1050/0.-1050.1920.1050@0.-1050.1920.1050" timestamp="1587718032868" />
-    <state width="1691" height="249" key="GridCell.Tab.0.right" timestamp="1587718032868">
-      <screen x="0" y="-1050" width="1920" height="1050" />
+    <state width="1483" height="260" key="GridCell.Tab.0.left/0.31.1504.972@0.31.1504.972" timestamp="1587820632757" />
+    <state width="1483" height="260" key="GridCell.Tab.0.right" timestamp="1587820632757">
+      <screen x="0" y="31" width="1504" height="972" />
     </state>
     <state width="1691" height="249" key="GridCell.Tab.0.right/0.30.1920.1050/0.-1050.1920.1050@0.-1050.1920.1050" timestamp="1587718032868" />
-    <state x="459" y="-895" key="SettingsEditor" timestamp="1587731034954">
-      <screen x="0" y="-1050" width="1920" height="1050" />
+    <state width="1483" height="260" key="GridCell.Tab.0.right/0.31.1504.972@0.31.1504.972" timestamp="1587820632757" />
+    <state width="1483" height="321" key="GridCell.Tab.1.bottom" timestamp="1587819176263">
+      <screen x="0" y="31" width="1504" height="972" />
+    </state>
+    <state width="1483" height="321" key="GridCell.Tab.1.bottom/0.31.1504.972@0.31.1504.972" timestamp="1587819176263" />
+    <state width="1483" height="321" key="GridCell.Tab.1.center" timestamp="1587819176263">
+      <screen x="0" y="31" width="1504" height="972" />
+    </state>
+    <state width="1483" height="321" key="GridCell.Tab.1.center/0.31.1504.972@0.31.1504.972" timestamp="1587819176263" />
+    <state width="1483" height="321" key="GridCell.Tab.1.left" timestamp="1587819176263">
+      <screen x="0" y="31" width="1504" height="972" />
+    </state>
+    <state width="1483" height="321" key="GridCell.Tab.1.left/0.31.1504.972@0.31.1504.972" timestamp="1587819176263" />
+    <state width="1483" height="321" key="GridCell.Tab.1.right" timestamp="1587819176263">
+      <screen x="0" y="31" width="1504" height="972" />
+    </state>
+    <state width="1483" height="321" key="GridCell.Tab.1.right/0.31.1504.972@0.31.1504.972" timestamp="1587819176263" />
+    <state x="360" y="174" key="SettingsEditor" timestamp="1587797148008">
+      <screen x="0" y="31" width="1504" height="972" />
     </state>
     <state x="459" y="-895" key="SettingsEditor/0.30.1920.1050/0.-1050.1920.1050@0.-1050.1920.1050" timestamp="1587731034954" />
+    <state x="360" y="174" key="SettingsEditor/0.31.1504.972@0.31.1504.972" timestamp="1587797148008" />
+    <state x="345" y="249" key="Vcs.Push.Dialog.v2" timestamp="1587797180234">
+      <screen x="0" y="31" width="1504" height="972" />
+    </state>
+    <state x="345" y="249" key="Vcs.Push.Dialog.v2/0.31.1504.972@0.31.1504.972" timestamp="1587797180234" />
+    <state x="317" y="245" key="com.intellij.xdebugger.impl.breakpoints.ui.BreakpointsDialogFactory$2" timestamp="1587799029581">
+      <screen x="0" y="31" width="1504" height="972" />
+    </state>
+    <state x="317" y="245" key="com.intellij.xdebugger.impl.breakpoints.ui.BreakpointsDialogFactory$2/0.31.1504.972@0.31.1504.972" timestamp="1587799029581" />
   </component>
 </project>
