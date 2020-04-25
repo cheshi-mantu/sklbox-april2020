@@ -1,4 +1,4 @@
-"""
+f"""
 password generator based on user data
 name, surname, email address, birthdate and username
 """
