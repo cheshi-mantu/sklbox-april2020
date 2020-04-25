@@ -11,7 +11,6 @@ def hello():
 @app.route('/auth', methods=['POST'])
 def auth():
     stats['attempts'] += 1
-
     data = request.json
     login = data['login']
     password = data['password']
