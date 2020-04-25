@@ -133,7 +133,4 @@ dmypy.json
 *.log
 #IDE
 venv/*
-.idea/*
-=======
-*.log
->>>>>>> 85725c458294bf8a77c62575e30ec57438f8d4d5
+.idea
