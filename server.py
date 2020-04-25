@@ -8,6 +8,7 @@ stats = {
 @app.route('/')
 def hello():
     return f'Hello, user! stats={stats}'
+
 @app.route('/auth', methods=['POST'])
 def auth():
     stats['attempts'] += 1

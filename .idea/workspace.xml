@@ -20,6 +20,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="b62883c1-4fe3-4a69-8076-df3e0dbd215c" name="Default Changelist" comment="">
+<<<<<<< HEAD
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+=======
+>>>>>>> 85725c458294bf8a77c62575e30ec57438f8d4d5
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -66,7 +70,11 @@
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+<<<<<<< HEAD
+      <recent name="D:\code\sklbox-april2020" />
+=======
       <recent name="C:\code\sklbox-april2020" />
+>>>>>>> 85725c458294bf8a77c62575e30ec57438f8d4d5
     </key>
   </component>
   <component name="RunManager" selected="Python.20200425-hw_gen-userdata">
